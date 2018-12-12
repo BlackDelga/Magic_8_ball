@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="ask">Ask</string>
+    <string name="undecided_ask_me_anything">Undecided Ask Me Anything!</string>
 </resources>
